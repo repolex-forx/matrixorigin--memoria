@@ -1,0 +1,52 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/matrixorigin/memoria",
+  "@type": "gh:Repository",
+  "gh:name": "memoria",
+  "gh:owner": "matrixorigin",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/ce729831d174e6eea38303168d4428dc05e1baf8",
+      "git:hexsha": "ce729831d174e6eea38303168d4428dc05e1baf8",
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.3",
+      "repolex:parsedAt": "2026-03-26T04:44:41.087934+00:00"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/e0df575fd04e223109387e8bd5ccf2673c84642a",
+      "git:hexsha": "e0df575fd04e223109387e8bd5ccf2673c84642a",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.1.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/fb38d6c535a363368a6fb17ac0ead7c9da65f8e8",
+      "git:hexsha": "fb38d6c535a363368a6fb17ac0ead7c9da65f8e8",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.1.0-rc2"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/0f84f716485d6e4da7d8ad6b5559e479e1744864",
+      "git:hexsha": "0f84f716485d6e4da7d8ad6b5559e479e1744864",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.2.0"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/7d1245faa3e5b867016c91e0b3dd1363df8e8187",
+      "git:hexsha": "7d1245faa3e5b867016c91e0b3dd1363df8e8187",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.2.0-rc"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/5cd430ff333b12e6f041fcb2e939f6685f2ad6c9",
+      "git:hexsha": "5cd430ff333b12e6f041fcb2e939f6685f2ad6c9",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.2.1"
+    },
+    {
+      "@id": "https://repolex.ai/r/matrixorigin/memoria/commit/94a97f79b52cd73c39be6e720736264d5ba06632",
+      "git:hexsha": "94a97f79b52cd73c39be6e720736264d5ba06632",
+      "repolex:parseStatus": "pending",
+      "git:tagName": "v0.2.2"
+    }
+  ]
+}
