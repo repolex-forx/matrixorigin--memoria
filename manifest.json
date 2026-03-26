@@ -299,6 +299,315 @@
         "blob/11bca0480606ddae041abd50c57650bdace005dc.nq.gz",
         "blob/581397d56b46c8c3fb414a669f04d0caed5c3400.nq.gz",
         "blob/7f169d43809e2c2a0ef1086fac96a4a65d9d2d76.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/ce729831d174e6eea38303168d4428dc05e1baf8.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/ce729831d174e6eea38303168d4428dc05e1baf8.nq.gz",
+      "repolex": "aggregate/repolex/ce729831d174e6eea38303168d4428dc05e1baf8.nq.gz",
+      "dep": "dep/ce729831d174e6eea38303168d4428dc05e1baf8.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "crate",
+          "packageVersion": "0.1.1",
+          "githubOrg": "Tina-1300",
+          "githubRepo": "crate",
+          "githubCommit": "103dcb917d8c1814e8a1dbf1d08ad2ea92b08aee"
+        },
+        {
+          "packageName": "type_info",
+          "packageVersion": "0.2.1",
+          "githubOrg": "dflemstr",
+          "githubRepo": "type-info",
+          "githubCommit": "b1cffadc2f24f086178e6faf8f49954773d76ab6"
+        },
+        {
+          "packageName": "chrono",
+          "packageVersion": "0.4.9",
+          "githubOrg": "chronotope",
+          "githubRepo": "chrono",
+          "githubCommit": "bbfcfad44f65d201443b172c9b8c258d0bbde9a0"
+        },
+        {
+          "packageName": "async_trait",
+          "packageVersion": "0.1.9",
+          "githubOrg": "dtolnay",
+          "githubRepo": "async-trait",
+          "githubCommit": "2fe612f52de7e795b84fc7827d927a92eb3d6d60"
+        },
+        {
+          "packageName": "config",
+          "packageVersion": "0.9.3",
+          "githubOrg": "rust-cli",
+          "githubRepo": "config-rs",
+          "githubCommit": "e84979415a2b3a68734bc26c3228aa326dc33e3c"
+        },
+        {
+          "packageName": "retriever",
+          "packageVersion": "0.0.3",
+          "githubOrg": "itsybitesyspider",
+          "githubRepo": "retriever",
+          "githubCommit": "a40c6f53bec861eb9421b2c0f15e3e2d43599aff"
+        },
+        {
+          "packageName": "tokio",
+          "packageVersion": "1.9.0",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tokio",
+          "githubCommit": "b280c6dcd72b2607cde68d2b2192480932f48ecb"
+        },
+        {
+          "packageName": "opentelemetry_sdk",
+          "packageVersion": "0.31.0",
+          "githubOrg": "open-telemetry",
+          "githubRepo": "opentelemetry-rust",
+          "githubCommit": "285dc925f98403ff426acc70968f104dc820d4f2"
+        },
+        {
+          "packageName": "row",
+          "packageVersion": "1.0.0",
+          "githubOrg": "glotzerlab",
+          "githubRepo": "row",
+          "githubCommit": "2f32a5973bca4c0bdfa2628ed9b82d21f00f4dcb"
+        },
+        {
+          "packageName": "anyhow",
+          "packageVersion": "1.0.99",
+          "githubOrg": "dtolnay",
+          "githubRepo": "anyhow",
+          "githubCommit": "f2b963a759decf0828efb58a8fdd417fb12f71fb"
+        },
+        {
+          "packageName": "serde_json",
+          "packageVersion": "1.0.99",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubCommit": "b4ec50ce7a47f1b344dd964de09a8be99fbe8300"
+        },
+        {
+          "packageName": "serial_test",
+          "packageVersion": "3.4.0",
+          "githubOrg": "palfrey",
+          "githubRepo": "serial_test",
+          "githubCommit": "9a307f24c2e1eaa1dc0113a575cee48883849e3f"
+        },
+        {
+          "packageName": "uuid",
+          "packageVersion": "1.9.1",
+          "githubOrg": "uuid-rs",
+          "githubRepo": "uuid",
+          "githubCommit": "36e6f573aa7b12a584cd4067de6ee6358794dd59"
+        },
+        {
+          "packageName": "tracing",
+          "packageVersion": "0.1.9",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "tracing",
+          "githubCommit": "cc70560a752e52ee12b6ee0632a96ecaa91db4ce"
+        },
+        {
+          "packageName": "futures_util",
+          "packageVersion": "0.3.9",
+          "githubOrg": "rust-lang",
+          "githubRepo": "futures-rs",
+          "githubCommit": "1661badd94e417904ba058152c8f60afef7c3efe"
+        },
+        {
+          "packageName": "execute",
+          "packageVersion": "0.2.9",
+          "githubOrg": "magiclen",
+          "githubRepo": "execute",
+          "githubCommit": "4a755bfce4e6368f2512a228d0b17c7661a7dad5"
+        },
+        {
+          "packageName": "bytes",
+          "packageVersion": "1.9.0",
+          "githubOrg": "tokio-rs",
+          "githubRepo": "bytes",
+          "githubCommit": "d0a14deeb5d94839f101a02cc650a3a14949305b"
+        },
+        {
+          "packageName": "ok",
+          "packageVersion": "0.1.0",
+          "githubOrg": "juev",
+          "githubRepo": "ok",
+          "githubCommit": "ef54a39b364c739897b7841c2cfc02fb888a0ec7"
+        },
+        {
+          "packageName": "base64",
+          "packageVersion": "0.9.3",
+          "githubOrg": "marshallpierce",
+          "githubRepo": "rust-base64",
+          "githubCommit": "61bb3b6f043458f06575e44ee30622d86000cfb3"
+        },
+        {
+          "packageName": "tower_http",
+          "packageVersion": "0.6.8",
+          "githubOrg": "tower-rs",
+          "githubRepo": "tower-http",
+          "githubCommit": "33166c8104be9b40ec15c480503d50d8c2312062"
+        },
+        {
+          "packageName": "log",
+          "packageVersion": "0.4.9",
+          "githubOrg": "rust-lang",
+          "githubRepo": "log",
+          "githubCommit": "87fc152d40f06623e109ead03cba0431da0e7f73"
+        },
+        {
+          "packageName": "serde",
+          "packageVersion": "1.0.99",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "192f5cd647dfb67bfd6158e7234c78c95894c071"
+        },
+        {
+          "packageName": "http",
+          "packageVersion": "1.4.0",
+          "githubOrg": "hyperium",
+          "githubRepo": "http",
+          "githubCommit": "b9625d83b524f7a8306883484f29a746eefc1bab"
+        },
+        {
+          "packageName": "status",
+          "packageVersion": "0.0.9",
+          "githubOrg": "epage",
+          "githubRepo": "status",
+          "githubCommit": "561b0675f6d7bcf5d0510db2a27f262255818bc3"
+        },
+        {
+          "packageName": "reqwest",
+          "packageVersion": "0.9.9",
+          "githubOrg": "seanmonstar",
+          "githubRepo": "reqwest",
+          "githubCommit": "d2eee8591a2ae3dac5d3bc33c0d7a25c7b01f9bf"
+        },
+        {
+          "packageName": "thiserror",
+          "packageVersion": "2.0.9",
+          "githubOrg": "dtolnay",
+          "githubRepo": "thiserror",
+          "githubCommit": "c535cecb6f8d98cbdc72f526fc4c8a8ae826e2a3"
+        },
+        {
+          "packageName": "tempfile",
+          "packageVersion": "3.9.0",
+          "githubOrg": "Stebalien",
+          "githubRepo": "tempfile",
+          "githubCommit": "fb313e01bc9568137c3e873db9ea267b93c22184"
+        },
+        {
+          "packageName": "either",
+          "packageVersion": "1.9.0",
+          "githubOrg": "rayon-rs",
+          "githubRepo": "either",
+          "githubCommit": "7a60ae82de8309d23d9e3fa55668bf713bd916bf"
+        },
+        {
+          "packageName": "state",
+          "packageVersion": "0.6.0",
+          "githubOrg": "SergioBenitez",
+          "githubRepo": "state",
+          "githubCommit": "dc6ab620f19e5dae3e731353cbddc6d55a2b126e"
+        },
+        {
+          "packageName": "rand",
+          "packageVersion": "0.9.2",
+          "githubOrg": "rust-random",
+          "githubRepo": "rand",
+          "githubCommit": "98473ee6f9b44eb85154b59b67adade7f2a9b8a1"
+        },
+        {
+          "packageName": "column",
+          "packageVersion": "0.0.1",
+          "githubOrg": "antiguru",
+          "githubRepo": "column-rs",
+          "githubCommit": "1ca02ad7afcc5a083142405ad0d25c240c66e43b"
+        },
+        {
+          "packageName": "bitflags",
+          "packageVersion": "2.9.4",
+          "githubOrg": "bitflags",
+          "githubRepo": "bitflags",
+          "githubCommit": "de0ec28f9999bb8984fa92e19a2f53181098cc87"
+        },
+        {
+          "packageName": "rust_decimal",
+          "packageVersion": "1.9.0",
+          "githubOrg": "paupino",
+          "githubRepo": "rust-decimal",
+          "githubCommit": "481aeb1f40e8943214a7b009e4929738b6096ca0"
+        },
+        {
+          "packageName": "bigdecimal",
+          "packageVersion": "0.4.9",
+          "githubOrg": "akubera",
+          "githubRepo": "bigdecimal-rs",
+          "githubCommit": "51a1fbadd1c42eab283a56f26f7eb74a1fa71586"
+        },
+        {
+          "packageName": "subtle",
+          "packageVersion": "2.6.1",
+          "githubOrg": "dalek-cryptography",
+          "githubRepo": "subtle",
+          "githubCommit": "5457b5448b021d1da101ababbb854e6657233943"
+        },
+        {
+          "packageName": "quit",
+          "packageVersion": "2.0.0",
+          "githubOrg": "dylni",
+          "githubRepo": "quit",
+          "githubCommit": "82b1c2550451415d7170b1ca05c8dd253b02cfc9"
+        },
+        {
+          "packageName": "opentelemetry",
+          "packageVersion": "0.9.1",
+          "githubOrg": "open-telemetry",
+          "githubRepo": "opentelemetry-rust",
+          "githubCommit": "1db827671b6692e05a7498dff0388199ee8d15fa"
+        },
+        {
+          "packageName": "time",
+          "packageVersion": "0.3.9",
+          "githubOrg": "time-rs",
+          "githubRepo": "time",
+          "githubCommit": "a957e12213caa794a78da728aad474e3e071f626"
+        },
+        {
+          "packageName": "moka",
+          "packageVersion": "0.9.9",
+          "githubOrg": "moka-rs",
+          "githubRepo": "moka",
+          "githubCommit": "974b1159595131f03020b7b4a19dbc1023c8a1e8"
+        },
+        {
+          "packageName": "semver",
+          "packageVersion": "1.0.9",
+          "githubOrg": "dtolnay",
+          "githubRepo": "semver",
+          "githubCommit": "d4a02ff3fca0df45d835a6a32aada9a886f87a1a"
+        },
+        {
+          "packageName": "once_cell",
+          "packageVersion": "1.9.0",
+          "githubOrg": "matklad",
+          "githubRepo": "once_cell",
+          "githubCommit": "44852cc72dbfbf57c5477a907ec0ab36527bc36b"
+        },
+        {
+          "packageName": "regex",
+          "packageVersion": "1.9.6",
+          "githubOrg": "rust-lang",
+          "githubRepo": "regex",
+          "githubCommit": "11b44439786499014f61afe6e294650fb01550be"
+        },
+        {
+          "packageName": "clap",
+          "packageVersion": "4.6.0",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubCommit": "9ab6dee710aa384e02ec5e9e2cfeadb2f35abf2a"
+        }
       ]
     }
   ],
